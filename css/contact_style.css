@@ -1,0 +1,68 @@
+body {
+
+}
+
+#formcontact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+#formcontact .flexbox {
+  width: 95%;
+  padding-top: 5%;
+}
+
+#nameid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.namefield {
+  width: 90%;
+}
+
+#namefield {
+  width: 90%;
+}
+
+#mailid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.mailfield {
+  width: 90%;
+}
+
+#mailfield {
+  width: 90%;
+}
+
+#messageid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50%;
+  width: 100%;
+}
+
+.messagefield {
+  width: 90%;
+}
+
+#messagefield {
+  border-radius: 10px;
+  height: 90%;
+  width: 90%;
+}
+
+.button_contact {
+
+}
